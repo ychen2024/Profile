@@ -1,5 +1,5 @@
 # About Dr. Chen
-I am a biostatistician/data scientist with demonstrated scientific research excellence, people and project management. A team worker who can work independently. My great strengths are taking initiatives and critical thinking.
+He is a biostatistician/data scientist with demonstrated broad and deep understanding of statistics and data science, scientific research excellence, people and project management. A team worker who can work independently. My great strengths are taking initiatives and critical thinking.
 
 ## Education
 M.S. Applied Statistics, Michigan State University, MI, 2009–2010  
