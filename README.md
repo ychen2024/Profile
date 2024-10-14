@@ -26,3 +26,6 @@ Statistics & data science: Inferential statistics; Causal inference; (Generalize
         Process Control (SPC); Frequentist & Bayesian statistics  
 Others: Tableau, Power BI, BigQuery, SQL, Amazon SageMaker Studio, Minitab, Lean Six   
         Sigma (LSS) methodologies, Azure  
+
+
+I am editing the README file. Adding some more details about the project description.
