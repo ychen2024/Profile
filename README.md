@@ -7,6 +7,7 @@ Ph.D.: Entomology, The University of Georgia, GA, 2003–2007
 Microsoft Power BI Analyst Professional Certificate, Coursera, 2024   
 Google Advanced Data Analytics, Coursera, 2024  
 Google Business Intelligence Professional Certificate, Coursera, 2024   
+Introduction to Git and GitHub Certificate, Coursera, 2024
 Data Science & Engineering Bootcamp, Data Science Dojo, Seattle, WA, 2019  
 
 ## Work Experience
