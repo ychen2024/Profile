@@ -4,10 +4,10 @@ He is a biostatistician/data scientist with demonstrated broad and deep understa
 ## Education
 M.S. Applied Statistics, Michigan State University, MI, 2009–2010  
 Ph.D.: Entomology, The University of Georgia, GA, 2003–2007    
-Microsoft Power BI Analyst Professional Certificate, Coursera, 2024   
-Google Advanced Data Analytics, Coursera, 2024  
-Google Business Intelligence Professional Certificate, Coursera, 2024   
-Introduction to Git and GitHub Certificate, Coursera, 2024
+Power BI Analyst Professional Certificate (Microsoft), Coursera, 2024   
+Advanced Data Analytics (Google), Coursera, 2024  
+Business Intelligence Professional Certificate (Google), Coursera, 2024   
+Introduction to Git and GitHub Certificate (Google), Coursera, 2024
 Data Science & Engineering Bootcamp, Data Science Dojo, Seattle, WA, 2019  
 
 ## Work Experience
